@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$isphdec_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech d..." alt="" coords="8,96,136,136" />
-<area shape="rect" href="$isphenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech e..." alt="" coords="160,96,288,136" />
-<area shape="rect" href="$sphdec_8h.html" title="The SPHDEC speech decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="13,184,130,224" />
-<area shape="rect" href="$sphenc_8h.html" title="The SPHENC speech encoder codec interface. Provides the user an interface to create and interact with..." alt="" coords="165,184,282,224" />
-</map>

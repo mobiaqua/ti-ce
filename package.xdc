@@ -152,8 +152,8 @@ requires ti.sdo.ce.utils.rtcfg.osal;
 //requires ti.sdo.ce.examples.apps.edmacodec1_copy;
 //requires ti.sdo.ce.examples.apps.speech_copy_LAD;
 
-requires ti.sdo.ce.wizards.genserver;
-requires ti.sdo.ce.wizards.gencodecpkg;
+//requires ti.sdo.ce.wizards.genserver;
+//requires ti.sdo.ce.wizards.gencodecpkg;
 
 /*!
  *  ======== codec_engine ========

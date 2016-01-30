@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$xdm_8h.html" title="This header defines all types, constants, and functions shared across the various XDM classes of algo..." alt="" coords="8,172,125,196" />
-<area shape="rect" href="$isphenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech e..." alt="" coords="145,97,281,121" />
-<area shape="rect" href="$_engine_8h.html" title="The Codec Engine Runtime." alt="" coords="421,172,538,196" />
-<area shape="rect" href="$visa_8h.html" title="The Codec Engine System Programming Interface. Provides system developers with services necessary to ..." alt="" coords="429,97,530,121" />
-<area shape="rect" href="$ialg_8h.html" title="This header defines all types, constants, and functions defined by XDAIS for algorithms." alt="" coords="132,246,225,270" />
-<area shape="rect" href="$xdas_8h.html" title="This header defines all types and constants used in the XDAS interfaces." alt="" coords="9,246,108,270" />
-<area shape="rect" href="$ispeech_8h.html" title="This header defines all types, constants, enums, and functions that are common across the various spe..." alt="" coords="250,172,320,196" />
-</map>

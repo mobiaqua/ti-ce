@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$xdm_8h.html" title="This header defines all types, constants, and functions shared across the various XDM classes of algo..." alt="" coords="180,172,297,196" />
-<area shape="rect" href="$iuniversal_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the &quot;univers..." alt="" coords="82,97,229,121" />
-<area shape="rect" href="$_engine_8h.html" title="The Codec Engine Runtime." alt="" coords="420,172,537,196" />
-<area shape="rect" href="$visa_8h.html" title="The Codec Engine System Programming Interface. Provides system developers with services necessary to ..." alt="" coords="428,97,529,121" />
-<area shape="rect" href="$ialg_8h.html" title="This header defines all types, constants, and functions defined by XDAIS for algorithms." alt="" coords="130,246,224,270" />
-<area shape="rect" href="$xdas_8h.html" title="This header defines all types and constants used in the XDAS interfaces." alt="" coords="8,246,106,270" />
-</map>
