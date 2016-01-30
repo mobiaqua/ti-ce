@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" href="$iauddec_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the audio de..." alt="" coords="1800,214,1928,254" />
+<area shape="rect" href="$xdm_8h.html" title="This header defines all types, constants, and functions shared across the various XDM classes of algo..." alt="" coords="3533,126,3656,166" />
+<area shape="rect" href="$iauddec1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the audio de..." alt="" coords="1080,214,1216,254" />
+<area shape="rect" href="$iaudenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the audio en..." alt="" coords="674,214,802,254" />
+<area shape="rect" href="$iaudenc1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the audio en..." alt="" coords="5674,214,5810,254" />
+<area shape="rect" href="$iimgdec_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the image de..." alt="" coords="261,214,392,254" />
+<area shape="rect" href="$iimgdec1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the image de..." alt="" coords="5301,214,5437,254" />
+<area shape="rect" href="$iimgenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the image en..." alt="" coords="1645,214,1776,254" />
+<area shape="rect" href="$iimgenc1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the image en..." alt="" coords="2104,214,2240,254" />
+<area shape="rect" href="$isphdec_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech d..." alt="" coords="109,214,237,254" />
+<area shape="rect" href="$isphdec1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech d..." alt="" coords="517,214,650,254" />
+<area shape="rect" href="$isphenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech e..." alt="" coords="928,214,1056,254" />
+<area shape="rect" href="$isphenc1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the speech e..." alt="" coords="2264,214,2397,254" />
+<area shape="rect" href="$iuniversal_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the &quot;univers..." alt="" coords="5512,214,5650,254" />
+<area shape="rect" href="$ividanalytics_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video an..." alt="" coords="5834,214,5989,254" />
+<area shape="rect" href="$ividdec_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video de..." alt="" coords="4186,214,4312,254" />
+<area shape="rect" href="$ividdec1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video de..." alt="" coords="4386,214,4520,254" />
+<area shape="rect" href="$ividdec2_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video de..." alt="" coords="4645,214,4778,254" />
+<area shape="rect" href="$split_2ividdec2_8h.html" title="This header defines all types, constants, enums, and functions that are common across all split IVIDD..." alt="" coords="5020,302,5180,342" />
+<area shape="rect" href="$ividdec3_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video de..." alt="" coords="3373,214,3506,254" />
+<area shape="rect" href="$ividenc_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video en..." alt="" coords="3682,214,3808,254" />
+<area shape="rect" href="$ividenc1_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video en..." alt="" coords="4802,214,4936,254" />
+<area shape="rect" href="$ividenc2_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video en..." alt="" coords="4960,214,5093,254" />
+<area shape="rect" href="$ividtranscode_8h.html" title="This header defines all types, constants, and functions shared by all implementations of the video tr..." alt="" coords="5117,214,5277,254" />
+<area shape="rect" href="$_engine_8h.html" title="The Codec Engine Runtime." alt="" coords="2674,126,2792,166" />
+<area shape="rect" href="$visa_8h.html" title="The Codec Engine System Programming Interface. Provides system developers with services necessary to ..." alt="" coords="2674,214,2792,254" />
+<area shape="rect" href="$auddec_8h.html" title="The AUDDEC audio decoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="1994,302,2112,342" />
+<area shape="rect" href="$auddec1_8h.html" title="The AUDDEC1 audio decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="1449,302,1569,342" />
+<area shape="rect" href="$audenc_8h.html" title="The AUDENC audio encoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="880,302,997,342" />
+<area shape="rect" href="$audenc1_8h.html" title="The AUDENC1 audio encoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="4246,302,4366,342" />
+<area shape="rect" href="$imgdec_8h.html" title="The IMGDEC image decoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="426,302,544,342" />
+<area shape="rect" href="$imgdec1_8h.html" title="The IMGDEC1 image decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="3937,302,4060,342" />
+<area shape="rect" href="$imgenc_8h.html" title="The IMGENC image encoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="1750,302,1868,342" />
+<area shape="rect" href="$imgenc1_8h.html" title="The IMGENC1 image encoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="2225,302,2348,342" />
+<area shape="rect" href="$sphdec_8h.html" title="The SPHDEC speech decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="228,302,345,342" />
+<area shape="rect" href="$sphdec1_8h.html" title="The SPHDEC1 speech decoder interface. Provides the user an interface to create and interact with XDAI..." alt="" coords="625,302,750,342" />
+<area shape="rect" href="$sphenc_8h.html" title="The SPHENC speech encoder codec interface. Provides the user an interface to create and interact with..." alt="" coords="1120,302,1237,342" />
+<area shape="rect" href="$sphenc1_8h.html" title="The SPHENC1 speech encoder codec interface. Provides the user an interface to create and interact wit..." alt="" coords="2486,302,2612,342" />
+<area shape="rect" href="$universal_8h.html" title="The &quot;universal&quot; algorithm interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="4084,302,4220,342" />
+<area shape="rect" href="$vidanalytics_8h.html" title="The VIDANALYTICS video analytics interface. Provides the user an interface to create and interact wit..." alt="" coords="4398,302,4566,342" />
+<area shape="rect" href="$viddec_8h.html" title="The VIDDEC video decoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="3316,302,3433,342" />
+<area shape="rect" href="$viddec1_8h.html" title="The VIDDEC1 video decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="3598,302,3716,342" />
+<area shape="rect" href="$split_2viddec2_8h.html" title="The VIDDEC2 split video decoder interface. Provides the user an interface to create and interact with..." alt="" coords="2878,390,3022,430" />
+<area shape="rect" href="$viddec2_8h.html" title="The VIDDEC2 video decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="2892,302,3009,342" />
+<area shape="rect" href="$viddec3_8h.html" title="The VIDDEC3 video decoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="2750,302,2868,342" />
+<area shape="rect" href="$videnc_8h.html" title="The VIDENC video encoder interface. Provides the user an interface to create and interact with XDAIS ..." alt="" coords="3033,302,3150,342" />
+<area shape="rect" href="$videnc1_8h.html" title="The VIDENC1 video encoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="3174,302,3292,342" />
+<area shape="rect" href="$videnc2_8h.html" title="The VIDENC2 video encoder interface. Provides the user an interface to create and interact with XDAIS..." alt="" coords="3457,302,3574,342" />
+<area shape="rect" href="$vidtranscode_8h.html" title="The VIDTRANSCODE video transcoder interface. Provides the user an interface to create and interact wi..." alt="" coords="3740,302,3913,342" />
+</map>

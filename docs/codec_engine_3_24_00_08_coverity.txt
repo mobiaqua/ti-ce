@@ -1,0 +1,1399 @@
+==== Results for ce.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../coverity/ti.sdo.ce/lib/release/ce.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 9
+Total LoC input to cov-analyze : 12688
+Functions analyzed             : 156
+Paths analyzed                 : 23968
+Defect occurrences found       : 0
+
+ 
+==== Results for ce.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../coverity/ti.sdo.ce/lib/release/ce.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 12884
+Functions analyzed             : 149
+Paths analyzed                 : 23914
+Defect occurrences found       : 0
+
+ 
+==== Results for ce.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../coverity/ti.sdo.ce/lib/release/ce.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 12885
+Functions analyzed             : 149
+Paths analyzed                 : 23914
+Defect occurrences found       : 0
+
+ 
+==== Results for Algorithm_BIOS.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.alg/lib/release/Algorithm_BIOS.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4885
+Functions analyzed             : 13
+Paths analyzed                 : 759
+Defect occurrences found       : 0
+
+ 
+==== Results for Algorithm_BIOS.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.alg/lib/release/Algorithm_BIOS.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4971
+Functions analyzed             : 13
+Paths analyzed                 : 759
+Defect occurrences found       : 0
+
+ 
+==== Results for Algorithm_BIOS.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.alg/lib/release/Algorithm_BIOS.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4972
+Functions analyzed             : 13
+Paths analyzed                 : 759
+Defect occurrences found       : 0
+
+ 
+==== Results for audio.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio/lib/release/audio.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 6539
+Functions analyzed             : 28
+Paths analyzed                 : 2173
+Defect occurrences found       : 0
+
+ 
+==== Results for audio.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio/lib/release/audio.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6673
+Functions analyzed             : 27
+Paths analyzed                 : 2165
+Defect occurrences found       : 0
+
+ 
+==== Results for audio.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio/lib/release/audio.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6674
+Functions analyzed             : 27
+Paths analyzed                 : 2165
+Defect occurrences found       : 0
+
+ 
+==== Results for auddec1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/auddec1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 5996
+Functions analyzed             : 15
+Paths analyzed                 : 1309
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/audenc1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6017
+Functions analyzed             : 15
+Paths analyzed                 : 1360
+Defect occurrences found       : 0
+
+ 
+==== Results for auddec1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/auddec1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6130
+Functions analyzed             : 14
+Paths analyzed                 : 1301
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/audenc1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6151
+Functions analyzed             : 14
+Paths analyzed                 : 1352
+Defect occurrences found       : 0
+
+ 
+==== Results for auddec1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/auddec1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6131
+Functions analyzed             : 14
+Paths analyzed                 : 1301
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.audio1/lib/release/audenc1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6152
+Functions analyzed             : 14
+Paths analyzed                 : 1352
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.audenc_copy/lib/audenc_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1603
+Functions analyzed             : 5
+Paths analyzed                 : 41
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.audenc_copy/lib/audenc_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1674
+Functions analyzed             : 5
+Paths analyzed                 : 41
+Defect occurrences found       : 0
+
+ 
+==== Results for audenc_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.audenc_copy/lib/audenc_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1675
+Functions analyzed             : 5
+Paths analyzed                 : 41
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgdec_copy/lib/imgdec_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1558
+Functions analyzed             : 5
+Paths analyzed                 : 18
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgdec_copy/lib/imgdec_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1629
+Functions analyzed             : 5
+Paths analyzed                 : 18
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgdec_copy/lib/imgdec_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1630
+Functions analyzed             : 5
+Paths analyzed                 : 18
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgenc_copy/lib/imgenc_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4615
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgenc_copy/lib/imgenc_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4686
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.imgenc_copy/lib/imgenc_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4687
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for scale_ti.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.scale/lib/scale_ti.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1287
+Functions analyzed             : 5
+Paths analyzed                 : 10
+Defect occurrences found       : 0
+
+ 
+==== Results for scale_ti.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.scale/lib/scale_ti.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1358
+Functions analyzed             : 5
+Paths analyzed                 : 10
+Defect occurrences found       : 0
+
+ 
+==== Results for scale_ti.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.scale/lib/scale_ti.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 1359
+Functions analyzed             : 5
+Paths analyzed                 : 10
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphdec_copy/lib/sphdec_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4626
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphdec_copy/lib/sphdec_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4697
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphdec_copy/lib/sphdec_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4698
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphenc_copy/lib/sphenc_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4652
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphenc_copy/lib/sphenc_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4723
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.sphenc_copy/lib/sphenc_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4724
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.viddec_copy/lib/viddec_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4827
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.viddec_copy/lib/viddec_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4898
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.viddec_copy/lib/viddec_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4899
+Functions analyzed             : 5
+Paths analyzed                 : 289
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc_copy.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.videnc_copy/lib/videnc_copy.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4938
+Functions analyzed             : 7
+Paths analyzed                 : 319
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.videnc_copy/lib/videnc_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 5009
+Functions analyzed             : 7
+Paths analyzed                 : 319
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc_copy.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.codecs.videnc_copy/lib/videnc_copy.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 5010
+Functions analyzed             : 7
+Paths analyzed                 : 319
+Defect occurrences found       : 0
+
+ 
+==== Results for scale.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.extensions.scale/lib/scale.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 4907
+Functions analyzed             : 7
+Paths analyzed                 : 372
+Defect occurrences found       : 0
+
+ 
+==== Results for scale.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.extensions.scale/lib/scale.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 5024
+Functions analyzed             : 7
+Paths analyzed                 : 372
+Defect occurrences found       : 0
+
+ 
+==== Results for scale.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.examples.extensions.scale/lib/scale.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 5025
+Functions analyzed             : 7
+Paths analyzed                 : 372
+Defect occurrences found       : 0
+
+ 
+==== Results for cesettings.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.global/lib/release/cesettings.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 3393
+Functions analyzed             : 6
+Paths analyzed                 : 5049
+Defect occurrences found       : 0
+
+Exceeded path limit of 5000 paths in 33.33% of functions (normally up to 5% of functions encounter this limitation)
+ 
+==== Results for cesettings.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.global/lib/release/cesettings.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 3464
+Functions analyzed             : 4
+Paths analyzed                 : 5040
+Defect occurrences found       : 0
+
+Exceeded path limit of 5000 paths in 50.00% of functions (normally up to 5% of functions encounter this limitation)
+ 
+==== Results for cesettings.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.global/lib/release/cesettings.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 3465
+Functions analyzed             : 4
+Paths analyzed                 : 5040
+Defect occurrences found       : 0
+
+Exceeded path limit of 5000 paths in 50.00% of functions (normally up to 5% of functions encounter this limitation)
+ 
+==== Results for image.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image/lib/release/image.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 6535
+Functions analyzed             : 28
+Paths analyzed                 : 2267
+Defect occurrences found       : 0
+
+ 
+==== Results for image.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image/lib/release/image.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6669
+Functions analyzed             : 27
+Paths analyzed                 : 2259
+Defect occurrences found       : 0
+
+ 
+==== Results for image.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image/lib/release/image.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6670
+Functions analyzed             : 27
+Paths analyzed                 : 2259
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgdec1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 5971
+Functions analyzed             : 15
+Paths analyzed                 : 1420
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgenc1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 5957
+Functions analyzed             : 15
+Paths analyzed                 : 1345
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgdec1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6105
+Functions analyzed             : 14
+Paths analyzed                 : 1412
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgenc1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6091
+Functions analyzed             : 14
+Paths analyzed                 : 1337
+Defect occurrences found       : 0
+
+ 
+==== Results for imgdec1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgdec1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6106
+Functions analyzed             : 14
+Paths analyzed                 : 1412
+Defect occurrences found       : 0
+
+ 
+==== Results for imgenc1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.image1/lib/release/imgenc1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6092
+Functions analyzed             : 14
+Paths analyzed                 : 1337
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios_nomsg.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios_nomsg.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 5118
+Functions analyzed             : 28
+Paths analyzed                 : 106
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 10945
+Functions analyzed             : 38
+Paths analyzed                 : 1397
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios_nomsg.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios_nomsg.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 5285
+Functions analyzed             : 28
+Paths analyzed                 : 106
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 11112
+Functions analyzed             : 38
+Paths analyzed                 : 1397
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios_nomsg.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios_nomsg.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 5286
+Functions analyzed             : 28
+Paths analyzed                 : 106
+Defect occurrences found       : 0
+
+ 
+==== Results for ipc_bios.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.ipc.bios/lib/release/ipc_bios.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 3
+Total LoC input to cov-analyze : 11113
+Functions analyzed             : 38
+Paths analyzed                 : 1397
+Defect occurrences found       : 0
+
+ 
+==== Results for node.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.node/lib/release/node.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 9
+Total LoC input to cov-analyze : 6164
+Functions analyzed             : 20
+Paths analyzed                 : 654
+Defect occurrences found       : 0
+
+ 
+==== Results for node.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.node/lib/release/node.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 9
+Total LoC input to cov-analyze : 6296
+Functions analyzed             : 20
+Paths analyzed                 : 654
+Defect occurrences found       : 0
+
+ 
+==== Results for node.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.node/lib/release/node.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 9
+Total LoC input to cov-analyze : 6297
+Functions analyzed             : 20
+Paths analyzed                 : 654
+Defect occurrences found       : 0
+
+ 
+==== Results for osal.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.osal/lib/release/osal.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 2823
+Functions analyzed             : 5
+Paths analyzed                 : 5
+Defect occurrences found       : 0
+
+ 
+==== Results for osal.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.osal/lib/release/osal.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 2892
+Functions analyzed             : 5
+Paths analyzed                 : 5
+Defect occurrences found       : 0
+
+ 
+==== Results for osal.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.osal/lib/release/osal.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 2893
+Functions analyzed             : 5
+Paths analyzed                 : 5
+Defect occurrences found       : 0
+
+ 
+==== Results for osal.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.osal.bios/lib/release/osal.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 12353
+Functions analyzed             : 48
+Paths analyzed                 : 899
+Defect occurrences found       : 0
+
+ 
+==== Results for osal.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.osal.bios/lib/release/osal.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 6
+Total LoC input to cov-analyze : 12505
+Functions analyzed             : 46
+Paths analyzed                 : 884
+Defect occurrences found       : 2 PW.IMPLICIT_FUNC_DECL
+
+Error: PW.IMPLICIT_FUNC_DECL:
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Global_BIOS.c:90:
+implicit_func_decl: function "__va_parmadr" declared implicitly
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Global_BIOS.c:90:
+caretline:     ^
+Error: PW.IMPLICIT_FUNC_DECL:
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Trace_SysCBuf.c:88:
+implicit_func_decl: function "__va_parmadr" declared implicitly
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Trace_SysCBuf.c:88:
+caretline:     ^
+ 
+==== Results for osal.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.osal.bios/lib/release/osal.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 6
+Total LoC input to cov-analyze : 12506
+Functions analyzed             : 46
+Paths analyzed                 : 884
+Defect occurrences found       : 2 PW.IMPLICIT_FUNC_DECL
+
+Error: PW.IMPLICIT_FUNC_DECL:
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Global_BIOS.c:90:
+implicit_func_decl: function "__va_parmadr" declared implicitly
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Global_BIOS.c:90:
+caretline:     ^
+Error: PW.IMPLICIT_FUNC_DECL:
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Trace_SysCBuf.c:88:
+implicit_func_decl: function "__va_parmadr" declared implicitly
+/db/atree/library/trees/ce/ce-w08/src/ti/sdo/ce/osal/bios/Trace_SysCBuf.c:88:
+caretline:     ^
+ 
+==== Results for speech.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech/lib/release/speech.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 6511
+Functions analyzed             : 28
+Paths analyzed                 : 2143
+Defect occurrences found       : 0
+
+ 
+==== Results for speech.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech/lib/release/speech.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6645
+Functions analyzed             : 27
+Paths analyzed                 : 2135
+Defect occurrences found       : 0
+
+ 
+==== Results for speech.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech/lib/release/speech.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6646
+Functions analyzed             : 27
+Paths analyzed                 : 2135
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphdec1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 5947
+Functions analyzed             : 15
+Paths analyzed                 : 1236
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphenc1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 5980
+Functions analyzed             : 15
+Paths analyzed                 : 1236
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphdec1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6081
+Functions analyzed             : 14
+Paths analyzed                 : 1228
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphenc1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6114
+Functions analyzed             : 14
+Paths analyzed                 : 1228
+Defect occurrences found       : 0
+
+ 
+==== Results for sphdec1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphdec1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6082
+Functions analyzed             : 14
+Paths analyzed                 : 1228
+Defect occurrences found       : 0
+
+ 
+==== Results for sphenc1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.speech1/lib/release/sphenc1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6115
+Functions analyzed             : 14
+Paths analyzed                 : 1228
+Defect occurrences found       : 0
+
+ 
+==== Results for mp4.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.codec/lib/mp4.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 1517
+Functions analyzed             : 7
+Paths analyzed                 : 26
+Defect occurrences found       : 0
+
+ 
+==== Results for mp4.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.codec/lib/mp4.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 1651
+Functions analyzed             : 7
+Paths analyzed                 : 26
+Defect occurrences found       : 0
+
+ 
+==== Results for mp4.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.codec/lib/mp4.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 1652
+Functions analyzed             : 7
+Paths analyzed                 : 26
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec3_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.test.codecs.viddec3_hdvicp2/lib/release/viddec3_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 2349
+Functions analyzed             : 14
+Paths analyzed                 : 54
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc2_copy.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../../coverity/ti.sdo.ce.test.codecs.videnc2_tiler/lib/release/videnc2_copy.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 2
+Total LoC input to cov-analyze : 2302
+Functions analyzed             : 14
+Paths analyzed                 : 54
+Defect occurrences found       : 0
+
+ 
+==== Results for vide.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.xvideo/lib/vide.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 5768
+Functions analyzed             : 12
+Paths analyzed                 : 332
+Defect occurrences found       : 0
+
+ 
+==== Results for vide.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.xvideo/lib/vide.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 5902
+Functions analyzed             : 12
+Paths analyzed                 : 332
+Defect occurrences found       : 0
+
+ 
+==== Results for vide.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.test.xvideo/lib/vide.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 5903
+Functions analyzed             : 12
+Paths analyzed                 : 332
+Defect occurrences found       : 0
+
+ 
+==== Results for universal.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.universal/lib/release/universal.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6130
+Functions analyzed             : 15
+Paths analyzed                 : 2718
+Defect occurrences found       : 0
+
+ 
+==== Results for universal.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.universal/lib/release/universal.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6264
+Functions analyzed             : 14
+Paths analyzed                 : 2710
+Defect occurrences found       : 0
+
+ 
+==== Results for universal.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.universal/lib/release/universal.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6265
+Functions analyzed             : 14
+Paths analyzed                 : 2710
+Defect occurrences found       : 0
+
+ 
+==== Results for syscbuf.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.syscbuf/lib/release/syscbuf.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 3636
+Functions analyzed             : 9
+Paths analyzed                 : 83
+Defect occurrences found       : 0
+
+ 
+==== Results for syscbuf.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.syscbuf/lib/release/syscbuf.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 3707
+Functions analyzed             : 9
+Paths analyzed                 : 83
+Defect occurrences found       : 0
+
+ 
+==== Results for syscbuf.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.syscbuf/lib/release/syscbuf.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 3708
+Functions analyzed             : 9
+Paths analyzed                 : 83
+Defect occurrences found       : 0
+
+ 
+==== Results for XdmUtils.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.xdm/lib/release/XdmUtils.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4636
+Functions analyzed             : 8
+Paths analyzed                 : 1337
+Defect occurrences found       : 0
+
+ 
+==== Results for XdmUtils.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.xdm/lib/release/XdmUtils.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4698
+Functions analyzed             : 8
+Paths analyzed                 : 1337
+Defect occurrences found       : 0
+
+ 
+==== Results for XdmUtils.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.utils.xdm/lib/release/XdmUtils.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 1
+Total LoC input to cov-analyze : 4699
+Functions analyzed             : 8
+Paths analyzed                 : 1337
+Defect occurrences found       : 0
+
+ 
+==== Results for vidanalytics.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidanalytics/lib/release/vidanalytics.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6045
+Functions analyzed             : 15
+Paths analyzed                 : 1939
+Defect occurrences found       : 0
+
+ 
+==== Results for vidanalytics.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidanalytics/lib/release/vidanalytics.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6179
+Functions analyzed             : 14
+Paths analyzed                 : 1931
+Defect occurrences found       : 0
+
+ 
+==== Results for vidanalytics.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidanalytics/lib/release/vidanalytics.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6180
+Functions analyzed             : 14
+Paths analyzed                 : 1931
+Defect occurrences found       : 0
+
+ 
+==== Results for video.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video/lib/release/video.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 8
+Total LoC input to cov-analyze : 6598
+Functions analyzed             : 28
+Paths analyzed                 : 2521
+Defect occurrences found       : 0
+
+ 
+==== Results for video.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video/lib/release/video.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6732
+Functions analyzed             : 27
+Paths analyzed                 : 2513
+Defect occurrences found       : 0
+
+ 
+==== Results for video.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video/lib/release/video.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 7
+Total LoC input to cov-analyze : 6733
+Functions analyzed             : 27
+Paths analyzed                 : 2513
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/viddec1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6077
+Functions analyzed             : 15
+Paths analyzed                 : 2426
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc1.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/videnc1.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6020
+Functions analyzed             : 15
+Paths analyzed                 : 1592
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/viddec1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6211
+Functions analyzed             : 14
+Paths analyzed                 : 2418
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc1.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/videnc1.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6154
+Functions analyzed             : 14
+Paths analyzed                 : 1584
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/viddec1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6212
+Functions analyzed             : 14
+Paths analyzed                 : 2418
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc1.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video1/lib/release/videnc1.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6155
+Functions analyzed             : 14
+Paths analyzed                 : 1584
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/viddec2.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6125
+Functions analyzed             : 15
+Paths analyzed                 : 2415
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc2.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/videnc2.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6090
+Functions analyzed             : 16
+Paths analyzed                 : 1746
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/viddec2.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6259
+Functions analyzed             : 14
+Paths analyzed                 : 2407
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc2.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/videnc2.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6224
+Functions analyzed             : 15
+Paths analyzed                 : 1738
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/viddec2.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6260
+Functions analyzed             : 14
+Paths analyzed                 : 2407
+Defect occurrences found       : 0
+
+ 
+==== Results for videnc2.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video2/lib/release/videnc2.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6225
+Functions analyzed             : 15
+Paths analyzed                 : 1738
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2front.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2front.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6171
+Functions analyzed             : 15
+Paths analyzed                 : 1400
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2back.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2back.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6150
+Functions analyzed             : 18
+Paths analyzed                 : 2191
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2front.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2front.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6305
+Functions analyzed             : 14
+Paths analyzed                 : 1392
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2back.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2back.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6284
+Functions analyzed             : 18
+Paths analyzed                 : 2191
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2front.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2front.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6306
+Functions analyzed             : 14
+Paths analyzed                 : 1392
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec2back.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../../coverity/ti.sdo.ce.video2.split/lib/release/viddec2back.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6285
+Functions analyzed             : 18
+Paths analyzed                 : 2191
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec3.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video3/lib/release/viddec3.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6218
+Functions analyzed             : 17
+Paths analyzed                 : 3026
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec3.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video3/lib/release/viddec3.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6352
+Functions analyzed             : 16
+Paths analyzed                 : 3018
+Defect occurrences found       : 0
+
+ 
+==== Results for viddec3.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.video3/lib/release/viddec3.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6353
+Functions analyzed             : 16
+Paths analyzed                 : 3018
+Defect occurrences found       : 0
+
+ 
+==== Results for vidtranscode.ae674 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidtranscode/lib/release/vidtranscode.ae674 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 5
+Total LoC input to cov-analyze : 6005
+Functions analyzed             : 15
+Paths analyzed                 : 1614
+Defect occurrences found       : 0
+
+ 
+==== Results for vidtranscode.aem3 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidtranscode/lib/release/vidtranscode.aem3 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6139
+Functions analyzed             : 14
+Paths analyzed                 : 1606
+Defect occurrences found       : 0
+
+ 
+==== Results for vidtranscode.aem4 ====
+/apps/coverity/5.5.3/bin/cov-analyze --verbose 0 --config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/cfg/coverity_config.xml --dir ../../../../coverity/ti.sdo.ce.vidtranscode/lib/release/vidtranscode.aem4 --all --disable SECURE_CODING --checker-option OVERRUN_DYNAMIC:allow_symbol --checker-option USE_AFTER_FREE:allow_report_args:true --parse-warnings-config /db/atree/gunjan/tmp/tools/packages/tisb/coverity/filters/parse_warnings.conf 
+Analysis summary report:
+------------------------
+Files analyzed                 : 4
+Total LoC input to cov-analyze : 6140
+Functions analyzed             : 14
+Paths analyzed                 : 1606
+Defect occurrences found       : 0
+
+ 
+Totals - LoC: 704367, Defects: 4
