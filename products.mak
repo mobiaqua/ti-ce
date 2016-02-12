@@ -71,6 +71,8 @@ ti.targets.elf.C674 =
 
 ti.targets.arm.elf.M3 =
 ti.targets.arm.elf.M4 =
+gnu.targets.arm.M3 ?=
+gnu.targets.arm.M4 ?=
 
 # Note that GCC targets are 'special' and require more than one var to be set.
 #
